@@ -11,8 +11,10 @@ Skin will boost 20% skill of Cavalry, Archer, Infatry, Catapult respectively.
 -	Wood castle -> boost 20% Archer skill,
 -	Steel castle -> boost 20% Infantry skill,
 -	Stone castle -> boost 20% Catapult skill,
+-	
 Every castle may have many heroes, there 4 types of heroes.
 Each heroes has category either leader of :
+
 -	Infantry (boost 40% attack infantry),
 -	Cavalry(boost 40% attack Cavalry),
 -	Archer(boost 40% attack Archer),
