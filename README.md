@@ -7,11 +7,12 @@ The game's description is as follows:
 Every player has a castle. In a castle there will be armies, with 4 categories: Infantry, Cavalry, Archer, Catapult.
 Every castle has different Skin: Horse, Wood, Steel, Stone
 Skin will boost 20% skill of Cavalry, Archer, Infatry, Catapult respectively.
+
 - Horse castle -> boost 20% Cavalry skill
 -	Wood castle -> boost 20% Archer skill,
 -	Steel castle -> boost 20% Infantry skill,
 -	Stone castle -> boost 20% Catapult skill,
--	
+
 Every castle may have many heroes, there 4 types of heroes.
 Each heroes has category either leader of :
 
