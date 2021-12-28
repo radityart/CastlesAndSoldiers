@@ -20,6 +20,7 @@ Each heroes has category either leader of :
 -	Cavalry(boost 40% attack Cavalry),
 -	Archer(boost 40% attack Archer),
 -	Catapult(boost 40% attack Catapult),
+
 Hero has level from level 1 up to level 50.
 
-This program will print out 4 player; each with different castles and different types of armies. Each player will also have 5 different heroes of the same class.
+This program will print out 4 players; each with different castles and different types of armies. Each player will also have 5 different heroes of the same class.
